@@ -47,7 +47,7 @@ you can find a very well made youtube tutorial on how to set this up [here](http
 * Install the script using these commands in your advanced computer: 
 
 ```
-> pastebin get 3fyy7Uzr install
+> pastebin get aup67EJ1 install
 > install
 ```
 * Modify the `startup.lua` file that was created upon running the installation script to fit your setup: set the ```outPutFluxGate``` (line 3) to the name that the game put in the chat when you started the modem on the flux gate that power will be going OUT from. Do the same on line 4 for `inputFluxGate`.
